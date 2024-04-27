@@ -15,7 +15,7 @@
     "client_id": "5bf00c89b0203d30e9e6",
     "client_secret": "adf610bb87436852c6c1597aabb62b1b0ce4acce",
     "createIssueManually": false,
-    "proxy":"https://cors-anywhere.1l1.icu/https://github.com/login/oauth/access_token"
+    "proxy":"https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token"
   },
   "menu": [
     {
